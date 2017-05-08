@@ -1,11 +1,11 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "John"
-description: "Johns's blog,use Jekyll and github pages."
-keywords: "John,Jalpc,blog,Jekyll,github,gh-pages"
+title: "Anu"
+description: "My blog,use Jekyll and github pages."
+keywords: "Anu,Jalpc,blog,Jekyll,github,gh-pages"
 baseurl: "/"
-url: "http://jonjuscorpion666.github.io"
+url: "http://anukrishnank.github.io"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
@@ -13,13 +13,13 @@ img_path: 'http://www.jack003.com/static/img/blog'
 
 # author
 author:
-  name: 'John'
-  first_name: 'John'
-  last_name: 'John'
-  email: 'john_thomas03.com'
+  name: 'Anu'
+  first_name: 'Anu'
+  last_name: 'Anu'
+  email: 'a4anukrishnan@gmail.com'
   facebook_username: ''
-  github_username: 'jonjuscorpion666'
-  head_img: 'github.com/jonjuscorpion666.png'
+  github_username: 'anukrishnank'
+  head_img: 'github.com/anukrishnank.png'
 
 # social link
 jingyu:
